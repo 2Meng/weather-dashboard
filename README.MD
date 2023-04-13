@@ -30,7 +30,7 @@ Search history will be saved in local storage.
 This weather daskboard app is mobile compatible.
 
 Mock-Up:
-
+![image](https://user-images.githubusercontent.com/91503750/231847561-d0799353-ab14-434b-a1ff-d46e04ea0228.png)
 
 Technologies Used:
 
